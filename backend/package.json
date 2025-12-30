@@ -1,0 +1,17 @@
+{
+  "name": "skill-check-backend",
+  "version": "0.1.0",
+  "description": "Backend API for SkillCheck platform",
+  "license": "MIT",
+  "author": "Sai Krishnan S",
+  "type": "module",
+  "main": "server.js",
+"scripts": {
+  "start": "node src/server.js",
+  "dev": "node src/server.js"
+},
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}

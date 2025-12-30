@@ -1,0 +1,19 @@
+{
+  "name": "skillcheck",
+  "version": "0.1.0",
+  "description": "Backend service for SkillCheck platform",
+  "homepage": "https://github.com/saikriz898/skillcheck#readme",
+  "bugs": {
+    "url": "https://github.com/saikriz898/skillcheck/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikriz898/skillcheck.git"
+  },
+  "license": "MIT",
+  "author": "Sai Krishnan S",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+  }
+}
